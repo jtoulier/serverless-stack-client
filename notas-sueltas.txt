@@ -1,4 +1,10 @@
-2019-11-08  195/945 https://serverless-stack.com/chapters/adding-links-in-the-navbar.html   
+2019-11-08          195/945     20.6%   https://serverless-stack.com/chapters/adding-links-in-the-navbar.html
+2019-11-09  +125    319/945     33.7%   https://serverless-stack.com/chapters/setup-secure-pages.html
 
 https://github.com/jtoulier/serverless-stack-client.git
 
+jtoulier@gmail.com
+admin@example.com
+Passw0rd!
+
+4242 4242 4242 4242
