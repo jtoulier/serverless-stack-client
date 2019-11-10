@@ -1,5 +1,6 @@
 2019-11-08          195/945     20.6%   https://serverless-stack.com/chapters/adding-links-in-the-navbar.html
-2019-11-09  +125    319/945     33.7%   https://serverless-stack.com/chapters/setup-secure-pages.html
+2019-11-09  +133    327/945     34.6%   https://serverless-stack.com/chapters/redirect-on-login.html
+2019-11-10  
 
 https://github.com/jtoulier/serverless-stack-client.git
 
